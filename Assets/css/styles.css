@@ -4,6 +4,7 @@
     --light-violet: hsl(270, 3%, 87%);
     --violet: hsl(279, 6%, 55%);
     --deep-violet: #21092f;
+
 }
 * {
     box-sizing: border-box;
